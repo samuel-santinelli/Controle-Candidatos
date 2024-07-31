@@ -16,9 +16,9 @@ This project is a simple Java application designed to demonstrate control flow u
 
 1. **Valid Input:**
    ```
-   Digite o primeiro parâmetro
+   Enter the first number: 
    12
-   Digite o segundo parâmetro
+   Enter the second number: 
    30
    ```
 
@@ -32,15 +32,15 @@ This project is a simple Java application designed to demonstrate control flow u
 
 2. **Invalid Input:**
    ```
-   Digite o primeiro parâmetro
+   Enter the first number: 
    30
-   Digite o segundo parâmetro
+   Enter the second number: 
    12
    ```
 
    Output:
    ```
-   O segundo parâmetro deve ser maior que o primeiro
+   The second number must be bigger than the first number
    ```
 
 ## Custom Exception
